@@ -17,6 +17,17 @@ I am passionate about front-end development as technology innovation, and I have
 
 I look forward to being a part of a growing company as a front-end developer where I can utilize exceptional programming and interpersonal skills acquired to contribute to your company's success.
 
+- 🌱 I've already built the large number of Defi Applications
+- 🤔 I’m looking to help with building Defi and web apps
+- 💬 Ask me about web and blockchain developmentCancel changes
+- 📫 How to reach me:
+  1) Email: suyan8949@gmail.com
+  2) Telegram: https://t.me/suyan227
+  3) Skype: live:.cid.6284563197d64729
+  4) Linkedin:
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: ...
+
 Technologies: 
 <span style="color:#F71111">Git, Github, HTML, CSS, SASS, Javascript, Typescript, Python, React, Angular, Vue, React Native, Ionic, Flutter, Node, Nest, Ruby, Django, Agile, AWS, Docker, Jest, Mocha, solidity</span>
 
