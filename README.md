@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%230E8DF7&size=40&center=true&vCenter=true&width=750&height=100&lines=FullStack+blockchain+developer"></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucifer21123&label=Profile%20views&color=0e75b6&style=flat" alt="Lucifer1003" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lucifer21123&label=Profile%20views&color=0e75b6&style=flat" alt="Lucifer1003" /> </p>
 <p align="center" style = "size:16px;">
 <i>
 My expertise ranges from different programming languages to responsive frameworks to a vast array of knowledge in other areas
