@@ -21,10 +21,8 @@ I look forward to being a part of a growing company as a front-end developer whe
 - 🤔 I’m looking to help with building Defi and web apps
 - 💬 Ask me about web and blockchain developmentCancel changes
 - 📫 How to reach me:
-  1) Email: suyan8949@gmail.com
-  2) Telegram: https://t.me/suyan227
-  3) Skype: live:.cid.6284563197d64729
-  4) Linkedin:
+    Email: saulsaidwolf@gmail.com
+
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 
