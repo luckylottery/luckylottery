@@ -21,7 +21,7 @@ I look forward to being a part of a growing company as a front-end developer whe
 - 🤔 I’m looking to help with building Defi and web apps
 - 💬 Ask me about web and blockchain developmentCancel changes
 - 📫 How to reach me:
-    Email: saulsaidwolf@gmail.com
+    Email: hikap888@gmail.com
 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
